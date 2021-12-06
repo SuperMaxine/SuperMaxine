@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 374 Contributions in the Year 2021
+> 🏆 376 Contributions in the Year 2021
  > 
 > 📦 278.0 kB Used in GitHub's Storage 
  > 
