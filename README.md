@@ -4,5 +4,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:week-->
+<!--END_SECTION:week-->
+
+
+<!--START_SECTION:month-->
+<!--END_SECTION:month-->
+
+
+<!--START_SECTION:year-->
+<!--END_SECTION:year-->
