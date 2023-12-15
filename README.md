@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Total Time: 8 hrs 17 mins
+Total Time: 9 hrs 2 mins
 
-C++              3 hrs 42 mins   ███████████░░░░░░░░░░░░░░   44.60 %
-Python           3 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.04 %
-ObjectiveC       53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-SSH Config       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python           3 hrs 55 mins   ███████████░░░░░░░░░░░░░░   43.49 %
+C++              3 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   40.93 %
+ObjectiveC       53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+SSH Config       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Text             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:week-->
