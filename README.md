@@ -38,17 +38,17 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 21 December 2022 - To: 21 December 2023
+From: 22 December 2022 - To: 22 December 2023
 
-Total Time: 346 hrs 41 mins
+Total Time: 347 hrs 8 mins
 
-Python                     144 hrs 20 mins ██████████▒░░░░░░░░░░░░░░   41.63 %
-Markdown                   25 hrs 10 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Python                     146 hrs 21 mins ██████████▓░░░░░░░░░░░░░░   42.16 %
 JavaScript                 24 hrs 31 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-C++                        22 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Markdown                   24 hrs 14 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+C++                        22 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 OCaml                      18 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Java                       17 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Other                      16 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Java                       16 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Other                      16 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:year-->
