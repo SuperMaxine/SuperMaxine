@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Total Time: 10 hrs 39 mins
+Total Time: 9 hrs 19 mins
 
-Python           7 hrs 54 mins   ██████████████████▓░░░░░░   74.23 %
-Markdown         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Rust             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-MATLAB           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-JSON             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Python           5 hrs 54 mins   ███████████████▓░░░░░░░░░   63.30 %
+Markdown         1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+Rust             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+MATLAB           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Other            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:week-->
