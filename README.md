@@ -40,7 +40,7 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 30 December 2022 - To: 30 December 2023
+From: 31 December 2022 - To: 31 December 2023
 
 Total Time: 356 hrs 28 mins
 
