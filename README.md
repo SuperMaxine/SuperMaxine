@@ -5,15 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 10 hrs
+Total Time: 10 hrs 11 mins
 
-Markdown       5 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.82 %
-C++            1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Python         1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-CMake          48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-MATLAB         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Markdown       4 hrs 58 mins   ████████████▒░░░░░░░░░░░░   48.81 %
+C++            1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Other          1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
 ```
 
 <!--END_SECTION:week-->
