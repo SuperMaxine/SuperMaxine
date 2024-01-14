@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-Total Time: 10 hrs 27 mins
+Total Time: 9 hrs 14 mins
 
-C++              4 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.05 %
-Python           3 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.43 %
-ObjectiveC       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-YAML             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Python           3 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.07 %
+C++              3 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
+YAML             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+ObjectiveC       43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+JSON             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:week-->
