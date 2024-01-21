@@ -5,14 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Total Time: 12 hrs 11 mins
+Total Time: 12 hrs 12 mins
 
-C++           5 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.37 %
-Python        4 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.40 %
+C++           5 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.34 %
+Python        4 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 %
 ObjectiveC    1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Text          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Text          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 CMake         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
