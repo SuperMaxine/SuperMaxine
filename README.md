@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 23 December 2023 - To: 22 January 2024
+From: 24 December 2023 - To: 23 January 2024
 
-Total Time: 41 hrs 42 mins
+Total Time: 41 hrs 12 mins
 
-Python           15 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   36.27 %
-C++              10 hrs 49 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-Markdown         6 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-ObjectiveC       2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Other            1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Python           14 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   36.37 %
+C++              10 hrs 49 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+Markdown         6 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+ObjectiveC       2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other            1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:month-->
