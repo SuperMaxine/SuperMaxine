@@ -5,15 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Total Time: 3 hrs 58 mins
+Total Time: 10 hrs 50 mins
 
-Python        2 hrs 20 mins   ██████████████▓░░░░░░░░░░   58.71 %
-YAML          1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-CSV/TSV       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-textmate      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Text          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Python           8 hrs 34 mins   ███████████████████▓░░░░░   79.07 %
+YAML             1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+MATLAB           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:week-->
