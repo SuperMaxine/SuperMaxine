@@ -5,14 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-Total Time: 2 hrs 32 mins
+Total Time: 2 hrs 10 mins
 
-MATLAB    1 hr 32 mins    ███████████████░░░░░░░░░░   60.55 %
-Python    46 mins         ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-CSV       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+MATLAB    1 hr 32 mins    █████████████████▓░░░░░░░   70.79 %
+Python    24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+CSV       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:week-->
