@@ -21,7 +21,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 12 January 2024 - To: 11 February 2024
+From: 13 January 2024 - To: 12 February 2024
 
 Total Time: 28 hrs 16 mins
 
