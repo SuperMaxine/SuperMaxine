@@ -19,15 +19,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 16 January 2024 - To: 15 February 2024
+From: 17 January 2024 - To: 16 February 2024
 
-Total Time: 22 hrs 17 mins
+Total Time: 19 hrs 51 mins
 
-Python           12 hrs 34 mins  ██████████████░░░░░░░░░░░   56.44 %
-C++              3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-MATLAB           2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-YAML             1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-ObjectiveC       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Python           12 hrs 34 mins  ████████████████░░░░░░░░░   63.35 %
+MATLAB           2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+C++              1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+YAML             1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Other            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:month-->
