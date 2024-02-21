@@ -5,14 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Total Time: 2 mins
+Total Time: 54 mins
 
-Text             1 min           ███████████▒░░░░░░░░░░░░░   45.72 %
-GitIgnore file   0 secs          ████████░░░░░░░░░░░░░░░░░   32.56 %
-Python           0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python             42 mins         ███████████████████▒░░░░░   77.21 %
+Text               11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+GitIgnore file     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:week-->
