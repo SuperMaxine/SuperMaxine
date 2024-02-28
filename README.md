@@ -22,15 +22,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 26 January 2024 - To: 25 February 2024
+From: 27 January 2024 - To: 26 February 2024
 
-Total Time: 6 hrs 32 mins
+Total Time: 8 hrs 1 min
 
-Python             3 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.76 %
-MATLAB             1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-CSV                22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Markdown           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Text               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Python             4 hrs 26 mins   █████████████▓░░░░░░░░░░░   55.25 %
+MATLAB             1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+CSV                22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+YAML               22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Markdown           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:month-->
