@@ -5,15 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 19 February 2024 - To: 26 February 2024
+From: 20 February 2024 - To: 27 February 2024
 
-Total Time: 2 hrs 45 mins
+Total Time: 3 hrs 32 mins
 
-Python             1 hr 43 mins    ███████████████▓░░░░░░░░░   62.40 %
-YAML               22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Bash               13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Text               10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Docker             1 hr 26 mins    ██████████░░░░░░░░░░░░░░░   40.60 %
+Python             1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+YAML               22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Other              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:week-->
