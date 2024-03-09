@@ -19,7 +19,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 05 February 2024 - To: 06 March 2024
+From: 06 February 2024 - To: 07 March 2024
 
 Total Time: 9 hrs 26 mins
 
