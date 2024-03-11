@@ -34,9 +34,9 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 10 March 2023 - To: 09 March 2024
+From: 11 March 2023 - To: 10 March 2024
 
-Total Time: 401 hrs 18 mins
+Total Time: 401 hrs 19 mins
 
 Python             169 hrs 21 mins ██████████▓░░░░░░░░░░░░░░   42.20 %
 C++                32 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
