@@ -5,13 +5,11 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Total Time: 3 hrs 44 mins
+Total Time: 4 hrs 49 mins
 
-CMake              58 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-C++                49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-Other              46 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+Other              1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
 ```
 
 <!--END_SECTION:week-->
