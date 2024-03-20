@@ -20,11 +20,11 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 16 February 2024 - To: 17 March 2024
+From: 17 February 2024 - To: 18 March 2024
 
-Total Time: 14 hrs 21 mins
+Total Time: 14 hrs 46 mins
 
-Other              4 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 %
+Other              5 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.84 %
 ```
 
 <!--END_SECTION:month-->
