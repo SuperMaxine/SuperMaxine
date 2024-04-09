@@ -5,14 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-Total Time: 4 hrs 17 mins
+Total Time: 4 hrs 9 mins
 
-Java           2 hrs 24 mins   ██████████████░░░░░░░░░░░   56.18 %
-OCaml          46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-Docker         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Other          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Java           2 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.01 %
+OCaml          46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Docker         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+YAML           15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+JavaScript     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:week-->
