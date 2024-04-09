@@ -23,12 +23,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 07 March 2024 - To: 06 April 2024
+From: 08 March 2024 - To: 07 April 2024
 
-Total Time: 23 hrs 18 mins
+Total Time: 23 hrs 29 mins
 
-Java               11 hrs 16 mins  ████████████░░░░░░░░░░░░░   48.39 %
-Other              2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Java               12 hrs 3 mins   ████████████▓░░░░░░░░░░░░   51.31 %
+Other              2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
 ```
 
 <!--END_SECTION:month-->
