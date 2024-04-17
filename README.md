@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-Total Time: 5 hrs 36 mins
+Total Time: 6 hrs 10 mins
 
-Java             4 hrs 20 mins   ███████████████████▒░░░░░   77.42 %
-Python           33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-C++              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Java             4 hrs 3 mins    ████████████████▒░░░░░░░░   65.75 %
+Python           1 hr 34 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+C++              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+BibTeX           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:week-->
