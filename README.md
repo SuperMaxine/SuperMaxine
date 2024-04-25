@@ -40,15 +40,15 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 24 April 2023 - To: 23 April 2024
+From: 25 April 2023 - To: 24 April 2024
 
-Total Time: 377 hrs 8 mins
+Total Time: 376 hrs 8 mins
 
-Python             155 hrs 16 mins ██████████▒░░░░░░░░░░░░░░   41.17 %
-Markdown           31 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-C++                30 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Java               30 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Other              23 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python             154 hrs 25 mins ██████████▒░░░░░░░░░░░░░░   41.06 %
+Markdown           31 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+C++                30 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Java               30 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Other              23 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:year-->
