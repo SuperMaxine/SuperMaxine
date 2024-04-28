@@ -5,14 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 5 hrs 38 mins
+Total Time: 5 hrs 46 mins
 
-Python           5 hrs 20 mins   ███████████████████████▓░   94.49 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python           5 hrs 1 min     █████████████████████▓░░░   86.83 %
+Batchfile        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:week-->
