@@ -19,15 +19,14 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 06 April 2024 - To: 06 May 2024
+From: 07 April 2024 - To: 07 May 2024
 
-Total Time: 14 hrs 43 mins
+Total Time: 14 hrs 3 mins
 
-Python           7 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.20 %
-Java             5 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.64 %
-Batchfile        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Docker           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Python           7 hrs 29 mins   █████████████▒░░░░░░░░░░░   53.30 %
+Java             4 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   31.93 %
+Batchfile        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Other            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:month-->
