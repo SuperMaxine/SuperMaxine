@@ -21,13 +21,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 10 April 2024 - To: 10 May 2024
+From: 11 April 2024 - To: 11 May 2024
 
-Total Time: 16 hrs 23 mins
+Total Time: 14 hrs 49 mins
 
-Python           9 hrs 5 mins    ██████████████░░░░░░░░░░░   55.42 %
-Java             3 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-Other            1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Python           9 hrs 13 mins   ███████████████▓░░░░░░░░░   62.28 %
+Java             1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Other            1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
 ```
 
 <!--END_SECTION:month-->
