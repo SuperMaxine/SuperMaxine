@@ -5,13 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-Total Time: 13 hrs 22 mins
+Total Time: 12 hrs 14 mins
 
-Markdown   8 hrs 25 mins   ███████████████▓░░░░░░░░░   63.02 %
-Python     2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Other      2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Markdown   8 hrs 3 mins    ████████████████▒░░░░░░░░   65.85 %
+Python     2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Other      1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
 ```
 
 <!--END_SECTION:week-->
