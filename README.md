@@ -21,13 +21,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 20 April 2024 - To: 20 May 2024
+From: 22 April 2024 - To: 22 May 2024
 
-Total Time: 26 hrs 23 mins
+Total Time: 21 hrs 22 mins
 
-Python           9 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.32 %
-Markdown         8 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.66 %
-Other            3 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Markdown         8 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.54 %
+Python           4 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+Other            3 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
 ```
 
 <!--END_SECTION:month-->
