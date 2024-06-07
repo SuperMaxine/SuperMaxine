@@ -19,12 +19,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 05 May 2024 - To: 04 June 2024
+From: 06 May 2024 - To: 05 June 2024
 
-Total Time: 24 hrs 45 mins
+Total Time: 24 hrs 44 mins
 
-Markdown         8 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.87 %
-Other            6 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Markdown         8 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.90 %
+Other            6 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
 ```
 
 <!--END_SECTION:month-->
