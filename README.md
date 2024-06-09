@@ -5,11 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Total Time: 2 hrs
+Total Time: 2 hrs 2 mins
 
-Other     1 hr            ████████████▓░░░░░░░░░░░░   50.55 %
+Python    37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+Java      30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+RPMSpec   26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+Other     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
 ```
 
 <!--END_SECTION:week-->
