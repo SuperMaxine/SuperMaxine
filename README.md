@@ -23,13 +23,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 21 May 2024 - To: 20 June 2024
+From: 22 May 2024 - To: 21 June 2024
 
-Total Time: 24 hrs 36 mins
+Total Time: 26 hrs 35 mins
 
-Python           5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Bash             3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Other            3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Python           6 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Bash             4 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+Other            3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
 ```
 
 <!--END_SECTION:month-->
