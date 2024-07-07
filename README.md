@@ -41,7 +41,7 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 06 July 2023 - To: 05 July 2024
+From: 07 July 2023 - To: 06 July 2024
 
 Total Time: 362 hrs 34 mins
 
