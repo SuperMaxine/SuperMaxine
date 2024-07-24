@@ -23,7 +23,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 21 June 2024 - To: 21 July 2024
+From: 22 June 2024 - To: 22 July 2024
 
 Total Time: 24 hrs 18 mins
 
