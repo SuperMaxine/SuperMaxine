@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 25 June 2024 - To: 25 July 2024
+From: 26 June 2024 - To: 26 July 2024
 
-Total Time: 24 hrs 9 mins
+Total Time: 23 hrs 55 mins
 
-Java             8 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
-Python           6 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-JSON             2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-Text             2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Markdown         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Java             8 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.51 %
+Python           6 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+JSON             2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Text             2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Markdown         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:month-->
