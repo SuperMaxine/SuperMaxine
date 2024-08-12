@@ -5,12 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 03 August 2024 - To: 10 August 2024
+From: 04 August 2024 - To: 11 August 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 40 mins
 
-Markdown   0 secs          ██████████████████████▒░░   89.42 %
-Java       0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Markdown   1 hr 4 mins     ████████████████░░░░░░░░░   64.31 %
+Docker     35 mins         █████████░░░░░░░░░░░░░░░░   35.63 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:week-->
