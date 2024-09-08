@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 06 August 2024 - To: 05 September 2024
+From: 07 August 2024 - To: 06 September 2024
 
-Total Time: 14 hrs 2 mins
+Total Time: 14 hrs 8 mins
 
-Python       6 hrs 11 mins   ███████████░░░░░░░░░░░░░░   44.11 %
-Markdown     2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-JavaScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Docker       49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JSON         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Python         6 hrs 11 mins   ███████████░░░░░░░░░░░░░░   43.76 %
+Markdown       2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JavaScript     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Docker         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+JSON           45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:month-->
