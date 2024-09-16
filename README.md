@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 14 August 2024 - To: 13 September 2024
+From: 15 August 2024 - To: 14 September 2024
 
-Total Time: 7 hrs 32 mins
+Total Time: 7 hrs 22 mins
 
-Python         3 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.71 %
-JSON           1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-JavaScript     1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-HTML           45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-YAML           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Python         2 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.01 %
+JavaScript     1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+JSON           1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+HTML           45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+YAML           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:month-->
