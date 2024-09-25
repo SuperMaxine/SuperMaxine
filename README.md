@@ -5,14 +5,12 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-Total Time: 4 hrs 36 mins
+Total Time: 6 hrs 23 mins
 
-JavaScript        3 hrs 10 mins   █████████████████▒░░░░░░░   69.04 %
-Java              40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Java Properties   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Other             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+JavaScript        3 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.03 %
+Other             1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.53 %
 ```
 
 <!--END_SECTION:week-->
