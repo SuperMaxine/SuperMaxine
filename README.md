@@ -20,12 +20,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 21 September 2024 - To: 21 October 2024
+From: 22 September 2024 - To: 22 October 2024
 
-Total Time: 47 hrs 4 mins
+Total Time: 52 hrs 41 mins
 
-JavaScript       20 hrs 55 mins  ███████████░░░░░░░░░░░░░░   44.47 %
-Other            12 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   27.61 %
+JavaScript       25 hrs 5 mins   ████████████░░░░░░░░░░░░░   47.63 %
+Other            14 hrs 8 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
 ```
 
 <!--END_SECTION:month-->
