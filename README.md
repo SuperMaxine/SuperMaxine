@@ -5,11 +5,11 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Total Time: 4 hrs 47 mins
 
-JavaScript   2 hrs 24 mins   ████████████▓░░░░░░░░░░░░   50.32 %
+JavaScript   2 hrs 24 mins   ████████████▓░░░░░░░░░░░░   50.31 %
 YAML         39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
 CSV          33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
 Other        29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
