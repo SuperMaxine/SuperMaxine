@@ -39,13 +39,13 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 03 December 2023 - To: 02 December 2024
+From: 04 December 2023 - To: 03 December 2024
 
-Total Time: 315 hrs 12 mins
+Total Time: 312 hrs 33 mins
 
-Python             94 hrs          ███████▒░░░░░░░░░░░░░░░░░   29.82 %
-JavaScript         44 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Other              38 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Python             90 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+JavaScript         44 hrs 37 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Other              38 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
 ```
 
 <!--END_SECTION:year-->
