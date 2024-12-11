@@ -22,14 +22,14 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 08 November 2024 - To: 08 December 2024
+From: 09 November 2024 - To: 09 December 2024
 
-Total Time: 21 hrs 42 mins
+Total Time: 23 hrs 41 mins
 
-JavaScript   9 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
-Python       4 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Markdown     2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Other        1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+JavaScript   10 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   42.35 %
+Python       4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Markdown     4 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Other        1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:month-->
