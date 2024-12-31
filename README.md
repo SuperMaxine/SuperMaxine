@@ -23,7 +23,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 28 November 2024 - To: 28 December 2024
+From: 29 November 2024 - To: 29 December 2024
 
 Total Time: 27 hrs 37 mins
 
