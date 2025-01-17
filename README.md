@@ -23,14 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 15 December 2024 - To: 14 January 2025
+From: 16 December 2024 - To: 15 January 2025
 
-Total Time: 28 hrs 4 mins
+Total Time: 31 hrs 24 mins
 
-Python           15 hrs 14 mins  █████████████▓░░░░░░░░░░░   54.29 %
-Bash             3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-JavaScript       1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Other            1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Python           16 hrs 19 mins  █████████████░░░░░░░░░░░░   51.96 %
+Bash             3 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JavaScript       2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Java             2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Text             1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:month-->
