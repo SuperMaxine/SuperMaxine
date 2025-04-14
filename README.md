@@ -41,13 +41,13 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 11 April 2024 - To: 11 April 2025
+From: 13 April 2024 - To: 13 April 2025
 
-Total Time: 328 hrs 31 mins
+Total Time: 326 hrs 44 mins
 
-Python             105 hrs 14 mins ████████░░░░░░░░░░░░░░░░░   32.04 %
-JavaScript         66 hrs 3 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Other              37 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Python             104 hrs 53 mins ████████░░░░░░░░░░░░░░░░░   32.10 %
+JavaScript         66 hrs          █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Other              38 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 ```
 
 <!--END_SECTION:year-->
