@@ -23,14 +23,14 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 16 March 2025 - To: 15 April 2025
+From: 17 March 2025 - To: 16 April 2025
 
-Total Time: 40 hrs 46 mins
+Total Time: 40 hrs 52 mins
 
-Python         12 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-HTML           6 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-JavaScript     5 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Other          3 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Python         12 hrs 16 mins  ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+HTML           6 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+JavaScript     5 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Other          3 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:month-->
