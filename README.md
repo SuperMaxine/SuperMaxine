@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Total Time: 6 hrs 30 mins
+Total Time: 6 hrs 10 mins
 
-TeX            3 hrs 9 mins    ████████████▒░░░░░░░░░░░░   48.69 %
-Python         1 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Java           52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-JSON           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Other          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TeX            3 hrs 9 mins    ████████████▓░░░░░░░░░░░░   51.27 %
+Python         1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Java           52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+JSON           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+BibTeX         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:week-->
