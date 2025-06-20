@@ -19,12 +19,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 18 May 2025 - To: 17 June 2025
+From: 19 May 2025 - To: 18 June 2025
 
-Total Time: 49 hrs 26 mins
+Total Time: 50 hrs 5 mins
 
-Python       25 hrs 54 mins  █████████████░░░░░░░░░░░░   52.42 %
-Other        3 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Python       25 hrs 41 mins  ████████████▓░░░░░░░░░░░░   51.31 %
+Other        3 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:month-->
