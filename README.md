@@ -20,13 +20,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 24 May 2025 - To: 23 June 2025
+From: 25 May 2025 - To: 24 June 2025
 
-Total Time: 51 hrs 21 mins
+Total Time: 52 hrs 21 mins
 
-Python       21 hrs 18 mins  ██████████▒░░░░░░░░░░░░░░   41.49 %
-Docker       6 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Other        4 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Python       20 hrs 16 mins  █████████▓░░░░░░░░░░░░░░░   38.73 %
+Docker       7 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Other        5 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:month-->
