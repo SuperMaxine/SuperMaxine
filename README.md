@@ -5,12 +5,12 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Total Time: 11 hrs 18 mins
+Total Time: 9 hrs 30 mins
 
-Docker       4 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.40 %
-Other        2 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Docker       3 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.65 %
+Other        1 hr 58 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
 ```
 
 <!--END_SECTION:week-->
