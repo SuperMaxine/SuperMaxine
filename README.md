@@ -19,7 +19,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 04 July 2025 - To: 03 August 2025
+From: 05 July 2025 - To: 04 August 2025
 
 Total Time: 4 hrs 47 mins
 
