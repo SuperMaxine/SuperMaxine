@@ -5,12 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 22 mins
+Total Time: 1 hr 9 mins
 
-SMT         12 mins         █████████████▓░░░░░░░░░░░   54.40 %
-Other       9 mins          ███████████░░░░░░░░░░░░░░   44.27 %
+Markdown    39 mins         ██████████████▒░░░░░░░░░░   57.40 %
+SMT         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Other       10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
 ```
 
 <!--END_SECTION:week-->
