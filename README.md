@@ -20,12 +20,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 14 July 2025 - To: 13 August 2025
+From: 15 July 2025 - To: 14 August 2025
 
-Total Time: 3 hrs 40 mins
+Total Time: 4 hrs 8 mins
 
-Python       1 hr 37 mins    ███████████░░░░░░░░░░░░░░   44.45 %
-Other        48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Python       1 hr 43 mins    ██████████▒░░░░░░░░░░░░░░   41.85 %
+Markdown     1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+Other        48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
 ```
 
 <!--END_SECTION:month-->
