@@ -21,11 +21,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 17 July 2025 - To: 16 August 2025
+From: 18 July 2025 - To: 17 August 2025
 
-Total Time: 3 hrs 12 mins
+Total Time: 2 hrs 41 mins
 
-Other        1 hr 13 mins    █████████▓░░░░░░░░░░░░░░░   38.16 %
+Markdown     53 mins         ████████▒░░░░░░░░░░░░░░░░   33.40 %
+Other        53 mins         ████████▒░░░░░░░░░░░░░░░░   33.35 %
 ```
 
 <!--END_SECTION:month-->
