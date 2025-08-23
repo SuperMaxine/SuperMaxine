@@ -23,13 +23,14 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 21 July 2025 - To: 20 August 2025
+From: 22 July 2025 - To: 21 August 2025
 
-Total Time: 6 hrs 14 mins
+Total Time: 7 hrs 39 mins
 
-CodeQL       2 hrs 58 mins   ████████████░░░░░░░░░░░░░   47.59 %
-Markdown     53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Other        53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+CodeQL       2 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   38.75 %
+Python       1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Text         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Other        53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
 ```
 
 <!--END_SECTION:month-->
