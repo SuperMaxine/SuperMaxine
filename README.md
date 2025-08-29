@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 2 hrs 36 mins
+Total Time: 3 hrs 31 mins
 
-Text     1 hr 23 mins    █████████████▒░░░░░░░░░░░   53.51 %
-Python   59 mins         █████████▒░░░░░░░░░░░░░░░   37.78 %
-C        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-CodeQL   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-SMT      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       1 hr 46 mins    ████████████▓░░░░░░░░░░░░   50.56 %
+Docker       54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Text         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+C            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:week-->
