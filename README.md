@@ -5,13 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 1 hr 11 mins
+Total Time: 2 hrs 8 mins
 
-CodeQL       48 mins         █████████████████░░░░░░░░   67.50 %
-JavaScript   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
-TOML         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+CodeQL       1 hr 45 mins    ████████████████████▓░░░░   82.04 %
+JavaScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+TOML         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:week-->
