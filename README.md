@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 18 August 2025 - To: 17 September 2025
+From: 20 August 2025 - To: 19 September 2025
 
-Total Time: 11 hrs 13 mins
+Total Time: 13 hrs 5 mins
 
-Python       3 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.32 %
-CodeQL       2 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-Text         1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Docker       1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-HTML         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Python       3 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+CodeQL       3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Text         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Docker       1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+JSON         1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
 ```
 
 <!--END_SECTION:month-->
