@@ -5,15 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 3 hrs 12 mins
+Total Time: 3 hrs 34 mins
 
-CodeQL       1 hr 31 mins    ████████████░░░░░░░░░░░░░   47.46 %
-JSON         37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-HTML         31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-BibTeX       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-TOML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+CodeQL       1 hr 35 mins    ███████████░░░░░░░░░░░░░░   44.58 %
+JSON         58 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 %
+HTML         31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:week-->
