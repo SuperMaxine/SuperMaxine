@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 24 September 2025 - To: 24 October 2025
+From: 25 September 2025 - To: 25 October 2025
 
-Total Time: 4 hrs 29 mins
+Total Time: 4 hrs 32 mins
 
-CodeQL       1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.89 %
-Markdown     43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Java         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-TeX          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Python       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+CodeQL       1 hr 28 mins    ████████░░░░░░░░░░░░░░░░░   32.48 %
+Markdown     43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Java         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+TeX          26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Python       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:month-->
