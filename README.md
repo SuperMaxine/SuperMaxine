@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-Total Time: 1 hr 46 mins
+Total Time: 1 hr 21 mins
 
-Text         52 mins         ████████████▒░░░░░░░░░░░░   49.10 %
-TeX          39 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
-Docker       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Text         44 mins         █████████████▒░░░░░░░░░░░   53.88 %
+TeX          22 mins         ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Docker       12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:week-->
