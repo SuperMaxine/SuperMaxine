@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 2 hrs 10 mins
+Total Time: 2 hrs 42 mins
 
-Text         53 mins         ██████████▒░░░░░░░░░░░░░░   40.68 %
-Markdown     31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-JavaScript   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-TOML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-CSS          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Text         53 mins         ████████▒░░░░░░░░░░░░░░░░   32.81 %
+Markdown     43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+JavaScript   20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Bash         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+TOML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 
 <!--END_SECTION:week-->
