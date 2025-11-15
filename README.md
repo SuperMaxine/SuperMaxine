@@ -19,7 +19,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 13 October 2025 - To: 12 November 2025
+From: 14 October 2025 - To: 13 November 2025
 
 Total Time: 6 hrs 2 mins
 
