@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 3 hrs 14 mins
+Total Time: 5 hrs 10 mins
 
-Markdown     2 hrs 13 mins   █████████████████▒░░░░░░░   68.90 %
-Docker       29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Mermaid      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Markdown       2 hrs 52 mins   ██████████████░░░░░░░░░░░   55.59 %
+TeX            1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+Docker         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+YAML           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Mermaid        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:week-->
