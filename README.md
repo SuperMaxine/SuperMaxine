@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 29 October 2025 - To: 28 November 2025
+From: 30 October 2025 - To: 29 November 2025
 
-Total Time: 9 hrs 30 mins
+Total Time: 9 hrs 57 mins
 
-Markdown       4 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.32 %
-TeX            1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Text           1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Docker         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-JavaScript     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Markdown       5 hrs 8 mins    █████████████░░░░░░░░░░░░   51.62 %
+TeX            1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Text           1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Docker         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JavaScript     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:month-->
