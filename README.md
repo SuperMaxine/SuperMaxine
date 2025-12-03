@@ -41,14 +41,14 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 30 November 2024 - To: 30 November 2025
+From: 01 December 2024 - To: 01 December 2025
 
-Total Time: 296 hrs 29 mins
+Total Time: 296 hrs 16 mins
 
-Python             116 hrs 57 mins ██████████░░░░░░░░░░░░░░░   39.45 %
-JavaScript         32 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Markdown           21 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Other              20 hrs 32 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Python             116 hrs 57 mins ██████████░░░░░░░░░░░░░░░   39.47 %
+JavaScript         32 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Markdown           21 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Other              20 hrs 32 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:year-->
