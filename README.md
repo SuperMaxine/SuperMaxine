@@ -22,15 +22,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 23 November 2025 - To: 23 December 2025
+From: 25 November 2025 - To: 25 December 2025
 
-Total Time: 8 hrs 43 mins
+Total Time: 8 hrs 25 mins
 
-Markdown       3 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.34 %
-TeX            1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Text           1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Python         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-PowerShell     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Markdown     3 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.46 %
+Text         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Python       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+YAML         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+PowerShell   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 ```
 
 <!--END_SECTION:month-->
