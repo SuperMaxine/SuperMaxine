@@ -21,15 +21,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 05 December 2025 - To: 04 January 2026
+From: 06 December 2025 - To: 05 January 2026
 
-Total Time: 5 hrs 16 mins
+Total Time: 5 hrs 32 mins
 
-Markdown     1 hr 33 mins    ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-TeX          1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-YAML         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Python       32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Bash         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Markdown     1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
+TeX          1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
+YAML         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Python       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Bash         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:month-->
