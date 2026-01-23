@@ -20,15 +20,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 21 December 2025 - To: 20 January 2026
+From: 22 December 2025 - To: 21 January 2026
 
-Total Time: 23 hrs 19 mins
+Total Time: 24 hrs 2 mins
 
-TeX          8 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.35 %
-Python       5 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-Markdown     3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-JSON         2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Other        1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+TeX          9 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   39.11 %
+Python       5 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
+Markdown     3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+JSON         2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Other        1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:month-->
