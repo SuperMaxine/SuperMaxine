@@ -23,7 +23,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 28 December 2025 - To: 27 January 2026
+From: 29 December 2025 - To: 28 January 2026
 
 Total Time: 26 hrs 39 mins
 
