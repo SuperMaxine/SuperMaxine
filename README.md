@@ -40,9 +40,9 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 01 February 2025 - To: 01 February 2026
+From: 02 February 2025 - To: 02 February 2026
 
-Total Time: 261 hrs 56 mins
+Total Time: 261 hrs 58 mins
 
 Python             92 hrs 31 mins  ████████▓░░░░░░░░░░░░░░░░   35.32 %
 Markdown           22 hrs 42 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
