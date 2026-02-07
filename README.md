@@ -5,14 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 7 hrs 2 mins
+Total Time: 7 hrs 30 mins
 
-JSON         2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.32 %
-Markdown     2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Text         1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
-Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JSON         3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   43.28 %
+Markdown     2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.35 %
+Text         1 hr 38 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Python       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:week-->
