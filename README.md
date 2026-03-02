@@ -5,11 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 29 mins
 
-No activity tracked
+TeX      59 mins               ████████████████▓░░░░░░░░   66.45 %
+BibTeX   17 mins               █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+TOML     12 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
 ```
 
 <!--END_SECTION:week-->
