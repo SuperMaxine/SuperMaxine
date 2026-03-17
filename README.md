@@ -35,7 +35,7 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 15 March 2025 - To: 15 March 2026
+From: 16 March 2025 - To: 16 March 2026
 
 Total Time: 241 hrs 1 min
 
