@@ -37,9 +37,9 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 05 April 2025 - To: 05 April 2026
+From: 06 April 2025 - To: 06 April 2026
 
-Total Time: 238 hrs 9 mins
+Total Time: 238 hrs 8 mins
 
 Python         71 hrs 22 mins        ███████▒░░░░░░░░░░░░░░░░░   29.97 %
 TeX            40 hrs 25 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
