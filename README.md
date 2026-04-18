@@ -19,12 +19,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 16 March 2026 - To: 15 April 2026
+From: 17 March 2026 - To: 16 April 2026
 
-Total Time: 29 hrs 16 mins
+Total Time: 28 hrs 39 mins
 
-TeX           19 hrs 23 mins        ████████████████▓░░░░░░░░   66.24 %
-Other         2 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+TeX           18 hrs 52 mins        ████████████████▒░░░░░░░░   65.88 %
+Other         2 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
 ```
 
 <!--END_SECTION:month-->
