@@ -5,13 +5,14 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Total Time: 4 hrs 14 mins
+Total Time: 5 hrs 19 mins
 
-Python       1 hr 50 mins          ███████████░░░░░░░░░░░░░░   43.44 %
-SSH Config   1 hr 1 min            ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-Other        28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+Python       1 hr 50 mins          ████████▓░░░░░░░░░░░░░░░░   34.64 %
+SSH Config   55 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+TeX          42 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Other        40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
 ```
 
 <!--END_SECTION:week-->
