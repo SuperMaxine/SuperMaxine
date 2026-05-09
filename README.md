@@ -33,14 +33,14 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 07 May 2025 - To: 07 May 2026
+From: 08 May 2025 - To: 08 May 2026
 
-Total Time: 220 hrs 41 mins
+Total Time: 219 hrs 25 mins
 
-Python         58 hrs 12 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-TeX            36 hrs 51 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-Markdown       23 hrs 32 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Other          19 hrs 29 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Python             57 hrs 24 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+TeX                36 hrs 56 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Markdown           23 hrs 45 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Other              19 hrs 29 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 ```
 
 <!--END_SECTION:year-->
