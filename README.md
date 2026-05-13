@@ -19,12 +19,11 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 10 April 2026 - To: 10 May 2026
+From: 11 April 2026 - To: 11 May 2026
 
-Total Time: 13 hrs 6 mins
+Total Time: 14 hrs 29 mins
 
-Markdown           2 hrs 59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-Other              2 hrs 36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Other              3 hrs 42 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
 ```
 
 <!--END_SECTION:month-->
