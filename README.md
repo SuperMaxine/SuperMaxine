@@ -5,12 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-Total Time: 9 hrs 29 mins
+Total Time: 15 hrs 7 mins
 
-TeX          5 hrs 53 mins         ███████████████▓░░░░░░░░░   62.08 %
-Other        1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TeX          11 hrs                ██████████████████▒░░░░░░   72.84 %
+Markdown     54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Other        53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:week-->
