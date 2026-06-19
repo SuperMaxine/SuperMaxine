@@ -23,15 +23,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 17 May 2026 - To: 16 June 2026
+From: 18 May 2026 - To: 17 June 2026
 
-Total Time: 62 hrs 41 mins
+Total Time: 61 hrs 14 mins
 
-TeX          25 hrs 25 mins        ██████████░░░░░░░░░░░░░░░   40.56 %
-Python       9 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Markdown     8 hrs 24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-PowerShell   5 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-JavaScript   4 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+TeX          25 hrs 4 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
+Python       9 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Markdown     7 hrs 49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+PowerShell   5 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+JavaScript   4 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 ```
 
 <!--END_SECTION:month-->
