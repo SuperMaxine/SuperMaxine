@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 12 June 2026 - To: 19 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Total Time: 3 hrs 38 mins
+Total Time: 2 hrs 51 mins
 
-Python       1 hr 18 mins          █████████░░░░░░░░░░░░░░░░   35.80 %
-Bash         1 hr 2 mins           ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Markdown     41 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-YAML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-PowerShell   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Python       56 mins               ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Bash         43 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Markdown     35 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+YAML         16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+PowerShell   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:week-->
