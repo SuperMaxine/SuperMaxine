@@ -19,13 +19,11 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 07 June 2026 - To: 07 July 2026
+From: 08 June 2026 - To: 08 July 2026
 
-Total Time: 103 hrs 1 min
+Total Time: 119 hrs 37 mins
 
-Python       34 hrs 9 mins         ████████▒░░░░░░░░░░░░░░░░   33.15 %
-TeX          28 hrs 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 %
-Other        20 hrs 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Other        39 hrs 28 mins        ████████▒░░░░░░░░░░░░░░░░   33.00 %
 ```
 
 <!--END_SECTION:month-->
