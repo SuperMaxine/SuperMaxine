@@ -19,11 +19,11 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 08 June 2026 - To: 08 July 2026
+From: 09 June 2026 - To: 09 July 2026
 
-Total Time: 119 hrs 37 mins
+Total Time: 114 hrs 41 mins
 
-Other        39 hrs 28 mins        ████████▒░░░░░░░░░░░░░░░░   33.00 %
+Other        39 hrs 38 mins        ████████▓░░░░░░░░░░░░░░░░   34.57 %
 ```
 
 <!--END_SECTION:month-->
