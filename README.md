@@ -20,11 +20,11 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 20 June 2026 - To: 20 July 2026
+From: 21 June 2026 - To: 21 July 2026
 
-Total Time: 135 hrs 48 mins
+Total Time: 136 hrs 2 mins
 
-Other        44 hrs 15 mins        ████████░░░░░░░░░░░░░░░░░   32.59 %
+Other        44 hrs 29 mins        ████████▒░░░░░░░░░░░░░░░░   32.70 %
 ```
 
 <!--END_SECTION:month-->
