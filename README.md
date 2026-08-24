@@ -41,7 +41,7 @@ The past year:
 <!--START_SECTION:year-->
 
 ```txt
-From: 22 August 2025 - To: 22 August 2026
+From: 23 August 2025 - To: 23 August 2026
 
 Total Time: 493 hrs 27 mins
 
