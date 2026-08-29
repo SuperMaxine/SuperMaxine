@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Total Time: 18 hrs 12 mins
+Total Time: 16 hrs 19 mins
 
-Python               5 hrs 44 mins         ████████░░░░░░░░░░░░░░░░░   31.53 %
-Markdown             3 hrs 55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-JSON                 3 hrs 24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-TeX                  1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Git Config           54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Python               5 hrs 14 mins         ████████░░░░░░░░░░░░░░░░░   32.16 %
+Markdown             3 hrs 55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+JSON                 3 hrs 24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Git Config           52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Rust                 51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:week-->
