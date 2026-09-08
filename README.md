@@ -19,15 +19,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 06 August 2026 - To: 05 September 2026
+From: 07 August 2026 - To: 06 September 2026
 
-Total Time: 37 hrs 27 mins
+Total Time: 37 hrs 14 mins
 
-JSON         12 hrs 17 mins        ████████▒░░░░░░░░░░░░░░░░   32.81 %
-Python       6 hrs                 ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Markdown     4 hrs 46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Bash         3 hrs 48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-C#           2 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+JSON         12 hrs 17 mins        ████████▒░░░░░░░░░░░░░░░░   33.01 %
+Python       6 hrs                 ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Markdown     4 hrs 46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Bash         3 hrs 48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+C#           2 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:month-->
