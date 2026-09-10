@@ -5,15 +5,15 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-Total Time: 26 hrs 56 mins
+Total Time: 21 hrs 40 mins
 
-Markdown     9 hrs 34 mins         █████████░░░░░░░░░░░░░░░░   35.54 %
-Python       6 hrs 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-TeX          3 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-PowerShell   2 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-JSON         1 hr 34 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Markdown     8 hrs 24 mins         █████████▓░░░░░░░░░░░░░░░   38.77 %
+Python       5 hrs 40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+TeX          2 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+TypeScript   1 hr 29 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Bash         1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:week-->
