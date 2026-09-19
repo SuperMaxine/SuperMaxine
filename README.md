@@ -5,11 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 5 mins
+Total Time: 9 hrs 3 mins
 
-YAML   5 mins                █████████████████████████   100.00 %
+Python        2 hrs 59 mins         ████████▒░░░░░░░░░░░░░░░░   32.96 %
+PowerShell    2 hrs 5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Other         1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
 ```
 
 <!--END_SECTION:week-->
