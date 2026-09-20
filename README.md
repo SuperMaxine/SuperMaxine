@@ -5,13 +5,13 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 11 September 2026 - To: 18 September 2026
+From: 12 September 2026 - To: 19 September 2026
 
-Total Time: 9 hrs 3 mins
+Total Time: 8 hrs 33 mins
 
-Python        2 hrs 59 mins         ████████▒░░░░░░░░░░░░░░░░   32.96 %
-PowerShell    2 hrs 5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-Other         1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Python        2 hrs 41 mins         ████████░░░░░░░░░░░░░░░░░   31.44 %
+PowerShell    2 hrs 5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Other         1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
 ```
 
 <!--END_SECTION:week-->
