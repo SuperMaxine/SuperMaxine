@@ -5,14 +5,11 @@ My coding time for last week:
 <!--START_SECTION:week-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 2 hrs 49 mins
+Total Time: 0 secs
 
-PowerShell   1 hr 57 mins          █████████████████▒░░░░░░░   69.27 %
-HTML         24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Markdown     10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:week-->
