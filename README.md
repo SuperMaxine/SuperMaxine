@@ -19,7 +19,7 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 28 August 2026 - To: 27 September 2026
+From: 29 August 2026 - To: 28 September 2026
 
 Total Time: 65 hrs 41 mins
 
