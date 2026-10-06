@@ -19,15 +19,15 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 03 September 2026 - To: 03 October 2026
+From: 04 September 2026 - To: 04 October 2026
 
-Total Time: 41 hrs 4 mins
+Total Time: 36 hrs 47 mins
 
-Markdown      13 hrs 23 mins        ████████░░░░░░░░░░░░░░░░░   32.58 %
-Python        13 hrs 6 mins         ████████░░░░░░░░░░░░░░░░░   31.92 %
-TeX           2 hrs 55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-PowerShell    2 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-TypeScript    1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Markdown      12 hrs 17 mins        ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Python        12 hrs 8 mins         ████████▒░░░░░░░░░░░░░░░░   33.02 %
+TeX           2 hrs 55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+PowerShell    2 hrs 5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+HTML          1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:month-->
