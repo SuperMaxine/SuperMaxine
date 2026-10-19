@@ -19,13 +19,13 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 16 September 2026 - To: 16 October 2026
+From: 17 September 2026 - To: 17 October 2026
 
-Total Time: 162 hrs 7 mins
+Total Time: 161 hrs 46 mins
 
-Python       116 hrs 44 mins       ██████████████████░░░░░░░   72.00 %
-Markdown     20 hrs 43 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JSON         8 hrs 4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Python       116 hrs 35 mins       ██████████████████░░░░░░░   72.07 %
+Markdown     20 hrs 41 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+JSON         8 hrs 4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 Other        7 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
