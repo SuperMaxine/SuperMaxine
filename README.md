@@ -21,12 +21,12 @@ Last month:
 <!--START_SECTION:month-->
 
 ```txt
-From: 28 September 2026 - To: 28 October 2026
+From: 29 September 2026 - To: 29 October 2026
 
-Total Time: 247 hrs 43 mins
+Total Time: 255 hrs 46 mins
 
-Python               145 hrs 45 mins       ██████████████▓░░░░░░░░░░   58.83 %
-Other                54 hrs 44 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Python               147 hrs 14 mins       ██████████████▒░░░░░░░░░░   57.56 %
+Other                56 hrs 50 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
 ```
 
 <!--END_SECTION:month-->
